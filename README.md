@@ -1,7 +1,7 @@
 # Melanoma Detection
 > This project aims to develop a custom convolutional neural network (CNN) model for accurately detecting melanoma, a type of skin cancer, using images from the International Skin Imaging Collaboration (ISIC) dataset. Melanoma is a deadly form of skin cancer that accounts for a significant portion of skin cancer deaths. Early detection of melanoma is crucial for effective treatment and improving patient outcomes.
 
-The project follows a structured pipeline, including data reading and understanding, dataset creation, visualization, model building and training, data augmentation, handling class imbalances, and model evaluation. By leveraging deep learning techniques and image classification algorithms, the goal is to build a model capable of evaluating images and alerting dermatologists about the presence of melanoma, thereby reducing manual effort in diagnosis and improving the accuracy and efficiency of melanoma detection.
+> The project follows a structured pipeline, including data reading and understanding, dataset creation, visualization, model building and training, data augmentation, handling class imbalances, and model evaluation. By leveraging deep learning techniques and image classification algorithms, the goal is to build a model capable of evaluating images and alerting dermatologists about the presence of melanoma, thereby reducing manual effort in diagnosis and improving the accuracy and efficiency of melanoma detection.
 
 
 
@@ -40,7 +40,8 @@ The project follows a structured pipeline, including data reading and understand
 Give credit here.
 - This project was inspired by upGrad
 - [upGrad Portal](https://learn.upgrad.com/)
-- 
+- [StackOverflow](https://stackoverflow.com/)
+- [StackExchange](https://stackexchange.com/)
 
 
 ## Contact
