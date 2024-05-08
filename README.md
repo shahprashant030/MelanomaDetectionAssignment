@@ -31,7 +31,7 @@
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- In conclusion, the project successfully developed a custom CNN model for melanoma detection using the ISIC dataset. The model achieved [mention test accuracy and loss here]. 
+- In conclusion, the project successfully developed a custom CNN model for melanoma detection using the ISIC dataset.
 
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
